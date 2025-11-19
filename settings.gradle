@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "xh-core-libs"
+include ':library'
+

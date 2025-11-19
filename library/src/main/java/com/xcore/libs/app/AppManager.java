@@ -14,6 +14,7 @@ import java.util.Stack;
  */
 public class AppManager {
 
+
     private static AppManager instance;
 
     /**
